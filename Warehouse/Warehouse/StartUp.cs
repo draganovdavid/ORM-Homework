@@ -28,12 +28,17 @@
                 WarehouseDbcontext.Products.AddRange(product1, product2);
                 WarehouseDbcontext.SaveChanges();
             }
-
+            Console.WriteLine("----------------");
             AddProduct("PC"); // Добавя продукт.
 
+            Console.WriteLine("----------------");
             BuyProduct("David", 1); // Добавя купувач в таблицата Buyer.
 
+            Console.WriteLine("----------------");
             GetProductSalesReport(); // Дава информация за продукта и броя на купувачите му.
+
+            Console.WriteLine("----------------");
+            RemoveProduct(1); // Премахва продукт с подадения Id.
         }
 
         public static void AddProduct(string name)
@@ -87,6 +92,24 @@
             {
                 Console.WriteLine($"Product: {entry.Name}, Buyers count: {entry.BuyerCount}");
             }
+        }
+
+        public static void RemoveProduct(int productId)
+        {
+            using var context = new WarehouseContext();
+
+            var product = context
+                .Products
+                .FirstOrDefault(p => p.Id == productId);
+
+            if (product == null)
+            {
+                Console.WriteLine("Product does not exist.");
+                return;
+            }
+            context.Products.Remove(product);
+            context.SaveChanges();
+            Console.WriteLine($"Product {product.Name} removed.");
         }
     }
 }

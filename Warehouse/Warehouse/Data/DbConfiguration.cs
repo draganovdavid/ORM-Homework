@@ -2,6 +2,6 @@
 {
     public static class DbConfiguration
     {
-        public const string ConnectionString = "Server=DAVID;Database=Warehouse;Trusted_Connection=True;TrustServerCertificate=True;";
+        public const string ConnectionString = "Server=DAVID\\SQLEXPRESS;Database=Warehouse;Trusted_Connection=True;TrustServerCertificate=True;";
     }
 }
