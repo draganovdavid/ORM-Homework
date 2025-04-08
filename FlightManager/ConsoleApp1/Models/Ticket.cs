@@ -11,7 +11,7 @@
 
         public ushort SeatNumber  { get; set; }
 
-        public int PayRollId { get; set; }  
+        public int? PayRollId { get; set; }  
 
         public PayRoll? PayrollId { get; set; }
 

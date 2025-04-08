@@ -45,6 +45,26 @@ namespace ConsoleApp1.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Airplanes");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            SeatsCount = 400
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            SeatsCount = 180
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            SeatsCount = 350
+                        });
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.Airport", b =>
@@ -76,6 +96,29 @@ namespace ConsoleApp1.Migrations
                     b.HasIndex("CityId");
 
                     b.ToTable("Airports");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CityId = 1,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            Name = "Berlin Airport"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CityId = 2,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            Name = "Tokyo International"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CityId = 3,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            Name = "JFK Airport"
+                        });
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.City", b =>
@@ -93,9 +136,6 @@ namespace ConsoleApp1.Migrations
                     b.Property<int>("CountryId")
                         .HasColumnType("int");
 
-                    b.Property<int>("CountyId")
-                        .HasColumnType("int");
-
                     b.Property<DateTimeOffset>("CreatedAt")
                         .HasColumnType("datetimeoffset");
 
@@ -110,6 +150,29 @@ namespace ConsoleApp1.Migrations
                     b.HasIndex("CountryId");
 
                     b.ToTable("Cities");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CityName = "Berlin",
+                            CountryId = 1,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CityName = "Tokyo",
+                            CountryId = 2,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CityName = "New York",
+                            CountryId = 3,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        });
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.Continent", b =>
@@ -136,6 +199,26 @@ namespace ConsoleApp1.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Continents");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            ContinentName = "Europe",
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        },
+                        new
+                        {
+                            Id = 2,
+                            ContinentName = "Asia",
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        },
+                        new
+                        {
+                            Id = 3,
+                            ContinentName = "North America",
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        });
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.Country", b =>
@@ -167,6 +250,29 @@ namespace ConsoleApp1.Migrations
                     b.HasIndex("ContinentId");
 
                     b.ToTable("Countries");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            ContinentId = 1,
+                            CountryName = "Germany",
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        },
+                        new
+                        {
+                            Id = 2,
+                            ContinentId = 2,
+                            CountryName = "Japan",
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        },
+                        new
+                        {
+                            Id = 3,
+                            ContinentId = 3,
+                            CountryName = "USA",
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        });
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.Crew", b =>
@@ -183,6 +289,9 @@ namespace ConsoleApp1.Migrations
                     b.Property<DateTimeOffset?>("DeletedAt")
                         .HasColumnType("datetimeoffset");
 
+                    b.Property<int?>("FlightId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -192,7 +301,29 @@ namespace ConsoleApp1.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("FlightId");
+
                     b.ToTable("Crews");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            Name = "John Doe"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            Name = "Jane Smith"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            Name = "Robert Brown"
+                        });
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.Flight", b =>
@@ -229,6 +360,32 @@ namespace ConsoleApp1.Migrations
                     b.HasIndex("FlightStatusId");
 
                     b.ToTable("Flights");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            FlightDate = new DateTimeOffset(new DateTime(2024, 4, 4, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 3, 0, 0, 0)),
+                            FlightDuration = 120,
+                            PassengersCount = 200
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            FlightDate = new DateTimeOffset(new DateTime(2024, 4, 4, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 3, 0, 0, 0)),
+                            FlightDuration = 720,
+                            PassengersCount = 150
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            FlightDate = new DateTimeOffset(new DateTime(2024, 4, 4, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 3, 0, 0, 0)),
+                            FlightDuration = 600,
+                            PassengersCount = 180
+                        });
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.FlightStatus", b =>
@@ -255,6 +412,26 @@ namespace ConsoleApp1.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("FlightStatus");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            Status = "On Time"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            Status = "Delayed"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            Status = "Cancelled"
+                        });
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.FlightsStatusChanges", b =>
@@ -290,6 +467,32 @@ namespace ConsoleApp1.Migrations
                     b.HasIndex("FlightStatusId");
 
                     b.ToTable("FlightsStatusChanges");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            ChangetAt = new DateTimeOffset(new DateTime(2024, 4, 8, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 3, 0, 0, 0)),
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            FlightId = 1,
+                            FlightStatusId = 1
+                        },
+                        new
+                        {
+                            Id = 2,
+                            ChangetAt = new DateTimeOffset(new DateTime(2024, 4, 5, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 3, 0, 0, 0)),
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            FlightId = 2,
+                            FlightStatusId = 2
+                        },
+                        new
+                        {
+                            Id = 3,
+                            ChangetAt = new DateTimeOffset(new DateTime(2024, 4, 7, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 3, 0, 0, 0)),
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            FlightId = 3,
+                            FlightStatusId = 3
+                        });
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.Passanger", b =>
@@ -321,6 +524,26 @@ namespace ConsoleApp1.Migrations
                     b.HasIndex("FlightId");
 
                     b.ToTable("Passangers");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            Name = "Alice Johnson"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            Name = "Bob Martinez"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            Name = "Charlie Williams"
+                        });
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.PayRoll", b =>
@@ -343,6 +566,23 @@ namespace ConsoleApp1.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("PayRolls");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        });
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.Role", b =>
@@ -365,6 +605,23 @@ namespace ConsoleApp1.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Roles");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0))
+                        });
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.Ticket", b =>
@@ -387,7 +644,7 @@ namespace ConsoleApp1.Migrations
                     b.Property<int>("PassangerId")
                         .HasColumnType("int");
 
-                    b.Property<int>("PayRollId")
+                    b.Property<int?>("PayRollId")
                         .HasColumnType("int");
 
                     b.Property<int>("SeatNumber")
@@ -404,28 +661,43 @@ namespace ConsoleApp1.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("FlightId");
-
                     b.HasIndex("PassangerId");
 
                     b.HasIndex("PayRollId");
 
                     b.ToTable("Tickets");
-                });
 
-            modelBuilder.Entity("CrewFlight", b =>
-                {
-                    b.Property<int>("CrewsId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("FlightId")
-                        .HasColumnType("int");
-
-                    b.HasKey("CrewsId", "FlightId");
-
-                    b.HasIndex("FlightId");
-
-                    b.ToTable("CrewFlight");
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            FlightId = 1,
+                            PassangerId = 1,
+                            SeatNumber = 0,
+                            TicketPrice = 500m,
+                            Type = 0
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            FlightId = 2,
+                            PassangerId = 2,
+                            SeatNumber = 0,
+                            TicketPrice = 700m,
+                            Type = 0
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CreatedAt = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            FlightId = 3,
+                            PassangerId = 3,
+                            SeatNumber = 0,
+                            TicketPrice = 650m,
+                            Type = 0
+                        });
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.Airport", b =>
@@ -459,6 +731,13 @@ namespace ConsoleApp1.Migrations
                         .IsRequired();
 
                     b.Navigation("Contient");
+                });
+
+            modelBuilder.Entity("ConsoleApp1.Models.Crew", b =>
+                {
+                    b.HasOne("ConsoleApp1.Models.Flight", null)
+                        .WithMany("Crews")
+                        .HasForeignKey("FlightId");
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.Flight", b =>
@@ -496,12 +775,6 @@ namespace ConsoleApp1.Migrations
 
             modelBuilder.Entity("ConsoleApp1.Models.Ticket", b =>
                 {
-                    b.HasOne("ConsoleApp1.Models.Flight", null)
-                        .WithMany()
-                        .HasForeignKey("FlightId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("ConsoleApp1.Models.Passanger", "Passanger")
                         .WithMany("Tickets")
                         .HasForeignKey("PassangerId")
@@ -510,28 +783,11 @@ namespace ConsoleApp1.Migrations
 
                     b.HasOne("ConsoleApp1.Models.PayRoll", "PayrollId")
                         .WithMany()
-                        .HasForeignKey("PayRollId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("PayRollId");
 
                     b.Navigation("Passanger");
 
                     b.Navigation("PayrollId");
-                });
-
-            modelBuilder.Entity("CrewFlight", b =>
-                {
-                    b.HasOne("ConsoleApp1.Models.Crew", null)
-                        .WithMany()
-                        .HasForeignKey("CrewsId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("ConsoleApp1.Models.Flight", null)
-                        .WithMany()
-                        .HasForeignKey("FlightId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
                 });
 
             modelBuilder.Entity("ConsoleApp1.Models.City", b =>
@@ -551,6 +807,8 @@ namespace ConsoleApp1.Migrations
 
             modelBuilder.Entity("ConsoleApp1.Models.Flight", b =>
                 {
+                    b.Navigation("Crews");
+
                     b.Navigation("FlightsStatusChanges");
 
                     b.Navigation("Passangers");

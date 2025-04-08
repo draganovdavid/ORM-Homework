@@ -3,32 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250408063424_AddingFluntAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Migrations\\20250408063424_AddingFluntAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\flightdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\flightdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\flightdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\flightdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250408062611_InitialDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Migrations\\20250408062611_InitialDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\passanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\passanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\basemodels\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\basemodels\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250408083827_SeedDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Migrations\\20250408083827_SeedDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250408083640_SeedDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Migrations\\20250408083640_SeedDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\passanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\passanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\enum\\tickettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\basemodels\\ibasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\basemodels\\ibasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\basemodels\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\basemodels\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,26 +83,6 @@
       "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\crew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\david\\source\\repos\\consoleapp1\\consoleapp1\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE5DBFB-19E5-4E0A-BCC8-AC2AFEB00469}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250408060335_InitialDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Migrations\\20250408060335_InitialDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -94,102 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250408063424_AddingFluntAPI.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250408063424_AddingFluntAPI.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Migrations\\20250408063424_AddingFluntAPI.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250408063424_AddingFluntAPI.cs",
-              "RelativeToolTip": "ConsoleApp1\\Migrations\\20250408063424_AddingFluntAPI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:34:25.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250408062611_InitialDb.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250408062611_InitialDb.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Migrations\\20250408062611_InitialDb.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250408062611_InitialDb.cs",
-              "RelativeToolTip": "ConsoleApp1\\Migrations\\20250408062611_InitialDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:26:12.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Passanger.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Passanger.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Passanger.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Passanger.cs",
-              "RelativeToolTip": "ConsoleApp1\\Models\\Passanger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T07:47:53.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PayRoll.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\PayRoll.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\PayRoll.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\PayRoll.cs",
-              "RelativeToolTip": "ConsoleApp1\\Models\\PayRoll.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:08:10.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Role.cs",
-              "RelativeToolTip": "ConsoleApp1\\Models\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:31:17.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Ticket.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Ticket.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Ticket.cs",
-              "RelativeToolTip": "ConsoleApp1\\Models\\Ticket.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T07:47:05.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\BaseModels\\BaseModel.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\BaseModels\\BaseModel.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\BaseModels\\BaseModel.cs",
-              "RelativeToolTip": "ConsoleApp1\\Models\\BaseModels\\BaseModel.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T07:45:13.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "IBaseModel.cs",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\BaseModels\\IBaseModel.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Models\\BaseModels\\IBaseModel.cs",
@@ -197,12 +106,11 @@
               "RelativeToolTip": "ConsoleApp1\\Models\\BaseModels\\IBaseModel.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T07:45:53.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T07:45:53.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "TicketType.cs",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Enum\\TicketType.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Enum\\TicketType.cs",
@@ -210,8 +118,7 @@
               "RelativeToolTip": "ConsoleApp1\\Models\\Enum\\TicketType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T05:21:52.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T05:21:52.825Z"
             },
             {
               "$type": "Document",
@@ -229,123 +136,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PayRoll.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\PayRoll.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\PayRoll.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\PayRoll.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\PayRoll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:08:10.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Ticket.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:47:05.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250408083640_SeedDb.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250408083640_SeedDb.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Migrations\\20250408083640_SeedDb.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250408083640_SeedDb.cs",
+              "RelativeToolTip": "ConsoleApp1\\Migrations\\20250408083640_SeedDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:36:40.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FlightDbContext.cs",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\FlightDbContext.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\FlightDbContext.cs",
               "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\FlightDbContext.cs",
               "RelativeToolTip": "ConsoleApp1\\FlightDbContext.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAhwC8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T05:34:41.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FlightStatus.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\FlightStatus.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\FlightStatus.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\FlightStatus.cs",
-              "RelativeToolTip": "ConsoleApp1\\Models\\FlightStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:14:37.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FlightsStatusChanges.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\FlightsStatusChanges.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\FlightsStatusChanges.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\FlightsStatusChanges.cs",
-              "RelativeToolTip": "ConsoleApp1\\Models\\FlightsStatusChanges.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:20:54.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Flight.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Flight.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Flight.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Flight.cs",
-              "RelativeToolTip": "ConsoleApp1\\Models\\Flight.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:09:08.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Crew.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Crew.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Crew.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Crew.cs",
-              "RelativeToolTip": "ConsoleApp1\\Models\\Crew.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:27:18.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Country.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Country.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Country.cs",
-              "RelativeToolTip": "ConsoleApp1\\Models\\Country.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:32:54.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Continent.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Continent.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Continent.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Continent.cs",
-              "RelativeToolTip": "ConsoleApp1\\Models\\Continent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:30:06.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\City.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\City.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\City.cs",
-              "RelativeToolTip": "ConsoleApp1\\Models\\City.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:30:43.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Airport.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Airport.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Airport.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Airport.cs",
-              "RelativeToolTip": "ConsoleApp1\\Models\\Airport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:29:05.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 5,
               "Title": "Airplane.cs",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Airplane.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Airplane.cs",
@@ -353,8 +192,151 @@
               "RelativeToolTip": "ConsoleApp1\\Models\\Airplane.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:28:26.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T08:28:26.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\BaseModels\\BaseModel.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\BaseModels\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\BaseModels\\BaseModel.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\BaseModels\\BaseModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:45:13.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250408083827_SeedDb.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250408083827_SeedDb.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Migrations\\20250408083827_SeedDb.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250408083827_SeedDb.cs",
+              "RelativeToolTip": "ConsoleApp1\\Migrations\\20250408083827_SeedDb.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:38:27.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Passanger.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Passanger.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Passanger.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Passanger.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Passanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:47:53.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FlightStatus.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\FlightStatus.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\FlightStatus.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\FlightStatus.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\FlightStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:14:37.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Airport.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Airport.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Airport.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Airport.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Airport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:29:05.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\City.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\City.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\City.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:30:43.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Continent.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Continent.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Continent.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Continent.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Continent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:30:06.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Country.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Country.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:32:54.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Role.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:31:17.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FlightsStatusChanges.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\FlightsStatusChanges.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\FlightsStatusChanges.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\FlightsStatusChanges.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\FlightsStatusChanges.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:20:54.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Flight.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Flight.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:09:08.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Crew.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Crew.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Crew.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Crew.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Crew.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:27:18.663Z"
             },
             {
               "$type": "Document",
@@ -366,8 +348,7 @@
               "RelativeToolTip": "ConsoleApp1\\Migrations\\20250408060335_InitialDb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:03:35.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T06:03:35.242Z"
             }
           ]
         }
