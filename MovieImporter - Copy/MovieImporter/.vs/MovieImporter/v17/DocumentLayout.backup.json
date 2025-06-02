@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\MovieImporter\\MovieImporter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{618B0AE9-35D5-41AA-AF52-E1A078A50781}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\movieimporter\\movieimporter\\infrastructure\\movieimporterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618B0AE9-35D5-41AA-AF52-E1A078A50781}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\movieimporterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618B0AE9-35D5-41AA-AF52-E1A078A50781}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\movieimporter\\movieimporter\\infrastructure\\data\\moviedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618B0AE9-35D5-41AA-AF52-E1A078A50781}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\moviedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618B0AE9-35D5-41AA-AF52-E1A078A50781}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\movieimporter\\movieimporter\\infrastructure\\data\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618B0AE9-35D5-41AA-AF52-E1A078A50781}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6C90F8-D4BC-4F02-8128-04B1F14C8F8D}|MovieImporter\\MovieImporter.csproj|c:\\users\\pc\\desktop\\movieimporter\\movieimporter\\movieimporter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6C90F8-D4BC-4F02-8128-04B1F14C8F8D}|MovieImporter\\MovieImporter.csproj|solutionrelative:movieimporter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieImporterService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieImporter\\MovieImporter\\Infrastructure\\MovieImporterService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MovieImporterService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieImporter\\MovieImporter\\Infrastructure\\MovieImporterService.cs",
+              "RelativeToolTip": "Infrastructure\\MovieImporterService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwE8AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:52:36.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieImporter\\MovieImporter\\Infrastructure\\Data\\MovieDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\MovieDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieImporter\\MovieImporter\\Infrastructure\\Data\\MovieDbContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\MovieDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:52:30.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieImporter\\MovieImporter\\Infrastructure\\Data\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\MovieDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieImporter\\MovieImporter\\Infrastructure\\Data\\MovieDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\MovieDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:52:26.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MovieImporter\\MovieImporter\\MovieImporter\\Program.cs",
+              "RelativeDocumentMoniker": "MovieImporter\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MovieImporter\\MovieImporter\\MovieImporter\\Program.cs",
+              "RelativeToolTip": "MovieImporter\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:14:55.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
